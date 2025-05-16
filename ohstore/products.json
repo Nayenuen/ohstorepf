@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "𝗕𝗘𝗢𝗠𝗚𝗬𝗨 PANIC",
+        "price": 805,
+        "image": "http://maquinita.atwebpages.com/ohstore/assets/images/populer-products/1.JPG"
+    },
+    {
+        "id": 2,
+        "name": "𝗦𝗧𝗥𝗔𝗬 𝗞𝗜𝗗𝗦 LIGHSTICK VER. 2",
+        "price": 1680,
+        "image": "http://maquinita.atwebpages.com/ohstore/assets/images/populer-products/2.JPG"
+    },
+    {
+        "id": 3,
+        "name": "SKZ 5'CLOCK TOUR MERCH",
+        "price": 565,
+        "image": "http://maquinita.atwebpages.com/ohstore/assets/images/populer-products/3.JPG"
+    },
+    {
+        "id": 4,
+        "name": "𝗚𝗢𝗧𝟳 WINTER HEPTAGON",
+        "price": 625,
+        "image": "http://maquinita.atwebpages.com/ohstore/assets/images/populer-products/4.JPG"
+    },
+    {
+        "id": 5,
+        "name": "𝗟𝗜𝗦𝗔 ALTEREGO",
+        "price": 990,
+        "image":"http://maquinita.atwebpages.com/ohstore/assets/images/populer-products/5.JPG"
+    },
+    {
+        "id": 6,
+        "name": "𝗚𝗙𝗥𝗜𝗘𝗡𝗗 Season of Memories",
+        "price": 665,
+        "image": "http://maquinita.atwebpages.com/ohstore/assets/images/populer-products/6.JPG"
+    }
+]
